@@ -104,3 +104,5 @@ pipeline {
     <version>1.4.1</version>
 </dependency>
 ```
+### Adjust swagger path in application.proeprties
+springdoc.swagger-ui.path=/
